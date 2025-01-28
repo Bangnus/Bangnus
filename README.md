@@ -7,8 +7,8 @@
 </p>
 <p>
  Contact for Work   
- <a align="center" href="https://skillicons.dev">
+</p>
+ <a align="center" href="https://www.instagram.com/anxs_ov/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p>
 
