@@ -10,6 +10,6 @@
 ### 📬 Contact for Work  
 <p align="center">
   <a href="https://www.instagram.com/anxs_ov/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram,gmail" />
   </a>
 </p>
