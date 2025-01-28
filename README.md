@@ -5,4 +5,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,mysql,mongodb,postgresql,docker,postman" />
   </a>
 </p>
+<p>
+ Contact for Work   
+ <a align="center" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
