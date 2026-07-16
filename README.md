@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Bangnus&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Bangnus?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -24,12 +24,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bangnus&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangnus&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bangnus&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
@@ -54,4 +54,4 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">⭐ From <a href="https://github.com/Bangnus">Peerapat</a></p>
+<p align="center">⭐ From <a href="https://github.com/Bangnus">Nus Peerapat</a></p>
