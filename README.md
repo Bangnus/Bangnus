@@ -51,17 +51,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🔁 [Transfer-system](https://github.com/Bangnus/Transfer-system) — JavaScript
-- 🖥️ [IT-Office-Management-System](https://github.com/Bangnus/IT-Office-Management-System) — JavaScript
-- 📦 [autonomic-Inventory-System](https://github.com/Bangnus/autonomic-Inventory-System) — PHP
-- 🤖 [ai-emotion](https://github.com/Bangnus/ai-emotion) — TypeScript
-- 💳 [EzClassPay-frontend](https://github.com/Bangnus/EzClassPay-frontend) — TypeScript
-- 🌐 [nextjs-portfolio](https://github.com/Bangnus/nextjs-portfolio) — TypeScript
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
