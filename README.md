@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there, I'm Nus Peerapat 👋</h1>
+<p align="center">Web Developer 💻 | 🇹🇭 Thailand</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+a+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -37,16 +38,27 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/peeraapt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://nusdev-portfolio.vercel.app/" target="_blank">
+  <a href="https://nusdev-portfolio.vercel.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
   <a href="mailto:nuspeerapat@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://www.instagram.com/anxs_ov/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔁 [Transfer-system](https://github.com/Bangnus/Transfer-system) — JavaScript
+- 🖥️ [IT-Office-Management-System](https://github.com/Bangnus/IT-Office-Management-System) — JavaScript
+- 📦 [autonomic-Inventory-System](https://github.com/Bangnus/autonomic-Inventory-System) — PHP
+- 🤖 [ai-emotion](https://github.com/Bangnus/ai-emotion) — TypeScript
+- 💳 [EzClassPay-frontend](https://github.com/Bangnus/EzClassPay-frontend) — TypeScript
+- 🌐 [nextjs-portfolio](https://github.com/Bangnus/nextjs-portfolio) — TypeScript
 
 ---
 
@@ -54,4 +66,4 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">⭐ From <a href="https://github.com/Bangnus">Nus Peerapat</a></p>
+<p align="center">⭐ From <a href="https://github.com/Bangnus">Bangnus</a></p>
