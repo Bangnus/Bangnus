@@ -35,8 +35,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://nusdev-portfolio.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+  <a href="https://tumweb.kriptnet.com" target="_blank">
   </a>
   <a href="mailto:nuspeerapat@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
