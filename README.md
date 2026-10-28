@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://tumweb.kriptnet.com" target="_blank">
-    <img src="https://scontent.furt1-1.fna.fbcdn.net/v/t39.30808-6/865312282_122093703507534988_8167055611836411632_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=9kaFDBjxSnMQ7kNvwH63EiI&_nc_oc=AdqZTpHaf6xu5IzykWt50Gy910RcyN1v7XMAmHKlBKViU0-9M89QRDhabOL7oUZB51E&_nc_zt=23&_nc_ht=scontent.furt1-1.fna&_nc_gid=WxXq8xYUG4D34pACheeYxQ&_nc_ss=7b2a8&oh=00_AQSE5h4vX9v3xg0ltdUowBss84MnFuACoVtBYmNoEMg87w&oe=6AE72033" alt="TumWeb Project Preview" width="50" />
+    <img src="https://scontent.furt1-1.fna.fbcdn.net/v/t39.30808-6/865312282_122093703507534988_8167055611836411632_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=9kaFDBjxSnMQ7kNvwH63EiI&_nc_oc=AdqZTpHaf6xu5IzykWt50Gy910RcyN1v7XMAmHKlBKViU0-9M89QRDhabOL7oUZB51E&_nc_zt=23&_nc_ht=scontent.furt1-1.fna&_nc_gid=WxXq8xYUG4D34pACheeYxQ&_nc_ss=7b2a8&oh=00_AQSE5h4vX9v3xg0ltdUowBss84MnFuACoVtBYmNoEMg87w&oe=6AE72033" alt="TumWeb Project Preview" width="55" />
   </a>
   <a href="mailto:nuspeerapat@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
